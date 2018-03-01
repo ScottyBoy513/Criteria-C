@@ -9,3 +9,4 @@
 IB-  I am proud about learning about why we need stuff set to multiple devices and pixels. 
 
 DOL- 1. You would need to use relative measurements and media queries to  have a responsive design. 
+https://youtu.be/kDqOYPtFlK0 
