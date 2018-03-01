@@ -1,0 +1,11 @@
+1. About 46% of people will shop on their mobile device back in 2013. 
+
+2. It is important to be viewed on tablets and mobile devices because it allows many people to view your website and google will prioritize your website over others that aren't designed to be viewed on tablets.
+
+3. It is beneficial for people to visit educational websites because it allows people to learn stuff on the go quickly. 
+
+4. Using pixels is difficult to get the exact size that you want. 
+
+IB-  I am proud about learning about why we need stuff set to multiple devices and pixels. 
+
+DOL- 1. You would need to use relative measurements and media queries to  have a responsive design. 
